@@ -1,0 +1,6 @@
+1.// git branch  // to check on which branch we are presently in.
+2.// git branch "branchname" // to add a branch in the repository.
+3.// git checkout "branchname" // to move to the branch.
+4.// git merge 'branchname'  // after moving to the branch which needs to be merged on.
+5.// git branch -d 'branchname'  // to delete the branch. 
+6.// 
