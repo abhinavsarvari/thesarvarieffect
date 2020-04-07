@@ -1,0 +1,6 @@
+1.make directory into which you want to work using simple bash commands.
+2.//  git config --global user.name 'abhinavsarvari'  //
+3.//  git config --global user.email "sarvariabhinav@gmail.com"  //
+4.//  git clone "https://github.com/abhinavsarvari/thesarvarieffect.git"  //
+5.
+
