@@ -2,5 +2,8 @@
 2.//  git config --global user.name 'abhinavsarvari'  //
 3.//  git config --global user.email "sarvariabhinav@gmail.com"  //
 4.//  git clone "https://github.com/abhinavsarvari/thesarvarieffect.git"  //
-5.
-
+5.//  git add "filename" // to add files in the repository.
+6.//  git status  // for checking status of the files in the repository
+7.//  git commit -m "first git commands" CommandsforGIT.txt  //  git commit -m "comments" filename
+8.//  git push -u origin master
+9.// for changes in a file which is previously in the repository use the commands 7 - 6 - 8 
